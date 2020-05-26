@@ -5,7 +5,7 @@ summary: Course Notes and Materials
 weight: 1
 
 # Page metadata.
-title: Startup Engineering - Course Notes and Materials
+title: Data Science - Course Notes and Materials
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -21,27 +21,37 @@ menu:
     weight: 1
 ---
 
-## Course Notes and Materials
+## General Course Description and Objectives
+ 
+Practical and skill-focused introduction to using open-source programming software (R, R-studio, and R Markdown) in several aspects of Business Analytics. Course covers basic scripting/coding in R, data-wrangling, advanced graphing and data animation, using R for creating ...
 
-Under construction. Coming soon.
+Special Prerequisites: NONE
+
+**Course objectives:** in this course you will learn:
+
+1. basic scripting ...
+2. data transformation ...
+
+## Course structure
+
+... twice every week ...
 
 ## Schedule
 
-
 | Session | Date | Topic |
 | --- | --- | --- |
-| 1 | April 20th | Introduction: What is Entrepreneurship? |
-| 2 | April 27th | Customer Segmentation |
-| 3 | May 4th | Buisness Model Design |
-| 4 | May 11th | Revenue Models & Pricing |
-| 5 | May 18th | Lean Startup & Experimentation |
-| 6 | May 25th | Market & Competition |
-| - | June 1st | Pfingsten Holiday |
-| 7 | June 8th | Intermediate Pitches |
-| 8 | June 15th | Marketing & Sales |
-| 9 | June 22th | Operations |
-| 10 | June 29th | Organization  |
-| 11 | July 6th | Marketing |
-| 12 | July 13th | Final Startup Pitches  |
-| 13 | July 20th | Submission of Final Pitch Deck |
+| 1 | June 20th | [Introduction to R, RStudio IDE & GitHub]({{< relref "_syllabi/dat_sci/01_intro_r.md" >}}) |
+| 2 | June 27th | [Introduction to the tidyverse]({{< relref "_syllabi/dat_sci/01_intro_tv.md" >}}) |
+| 3 | June 4th | Data Acqusition |
+| 4 | June 11th | Data Wrangling |
+| 5 | June 18th | Data Visualization |
+| 6 | June 25th | Fundamentals of Machine Learning |
+| - | June 1st | ML: Performance Measures |
+| 7 | June 8th | Supervised ML: Classifaction |
+| 8 | June 15th | Supervised ML: Regression |
+| 9 | June 22th | Unsupervised ML: Clustering |
+| 10 | June 29th | Unsupervised ML: Dimension Reduction  |
+| 11 | June 6th | ML: Deep Learning |
+| 12 | June 13th | Reportign with RMarkdown  |
+| 13 | June 20th | Reporting with Shiny |
 
