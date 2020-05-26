@@ -40,8 +40,8 @@ Special Prerequisites: NONE
 
 | Session | Date | Topic |
 | --- | --- | --- |
-| 1 | June 20th | [Introduction to R, RStudio IDE & GitHub]({{< relref "_syllabi/dat_sci/01_intro_r.rmd" >}}) |
-| 2 | June 27th | [Introduction to the tidyverse]({{< relref "_syllabi/dat_sci/02_intro_tv.rmd" >}}) |
+| 1 | June 20th | [Introduction to R, RStudio IDE & GitHub]({{< relref "_syllabi/dat_sci/01_intro_r.html" >}}) |
+| 2 | June 27th | [Introduction to the tidyverse]({{< relref "_syllabi/dat_sci/02_intro_tv.html" >}}) |
 | 3 | June 4th | Data Acqusition |
 | 4 | June 11th | Data Wrangling |
 | 5 | June 18th | Data Visualization |
