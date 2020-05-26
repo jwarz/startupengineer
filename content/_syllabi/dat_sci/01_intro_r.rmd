@@ -17,6 +17,12 @@ weight: 1
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
 library(fontawesome)
 ```
+
+```{r, eval=T}
+a <- 1
+print(a)
+```
+
 <table>
   <tr>
     <td><img src='https://www.r-project.org/logo/Rlogo.png' style="height:100px" align="left" valign="middle" hspace="50px"></td>
