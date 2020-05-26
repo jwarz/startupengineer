@@ -108,7 +108,7 @@ As long as the current situation stands, physical meetings will be replaced by o
 
 | Session | Date | Topic[^1] |
 | --- | --- | --- |
-| 1 | June 20th | [Introduction to R, RStudio IDE & GitHub]({{< relref "_syllabi/dat_scie/_index.md" >}}) |
+| 1 | June 20th | [Introduction to R, RStudio IDE & GitHub]({{< relref "_syllabi/dat_sci/_index.md" >}}) |
 | 2 | June 27th | Introduction to the tidyverse |
 | 3 | June 4th | Data Acqusition |
 | 4 | June 11th | Data Wrangling |
