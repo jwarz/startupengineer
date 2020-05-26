@@ -103,6 +103,12 @@ As long as the current situation stands, physical meetings will be replaced by o
 
 ***
 
+### Course Notes & Materials
+
+Access to course notes & materials [**here**]({{< relref "_syllabi/dat_sci/_index.md" >}}).
+
+***
+
 ### Preliminary Schedule
 
 
