@@ -1,6 +1,6 @@
 ---
-title: Unsupervised ML: Dimension Reduction
-linktitle: Unsupervised ML: Dimension Reduction
+title: Unsupervised ML - Dimension Reduction
+linktitle: Unsupervised ML - Dimension Reduction
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
