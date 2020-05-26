@@ -7,15 +7,37 @@ date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   dat_sci:
-    parent: Data Science Fundamentals
+    parent: I. Data Science Fundamentals
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+<!-- Load gloabal packages -->
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+<table>
+  <tr>
+    <td><img src='https://www.r-project.org/logo/Rlogo.png' style="height:100px" align="left" valign="middle" hspace="50px"></td>
+    <td><img src='https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png' style="height:100px" align="right" valign="middle" hspace="50px"></td>
+  </tr>
+</table>
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+This chapter provides a broad overview of the R language that will get you programming right away. The first project will be creating a decision tool used in cost accounting. This  project will make it easier to study these things by teaching you the basics of R. The term “R” is used to refer to both the programming language and the software that interprets the scripts written using it. Your first mission is simple: assemble R code that will calculate the ideal quantity of inventory to order for a given product. 
 
+In this project, you will learn how to:
+
+* Use the R and RStudio interfaces
+* Run R commands
+* Create R objects
+* Write your own R functions and scripts
+
+Don’t worry if you’ve never programmed before and it seems like we cover a lot of ground fast. The chapter will teach you everything you need to know and gives you a concise overview of the R language. You will return to many of the concepts we meet here in the next projects, where you will examine the concepts in depth.
+
+Before you can ask your computer to save some numbers, you’ll need to know how to talk to it. RStudio gives you a way to talk to your computer. R gives you a language to speak in. To start you will need to have both R and RStudio installed on your computer before you can use them. R and RStudio are separate downloads and installations. Both are free (under the Affero General Public License (AGPL) v3) and easy to download. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. On the following sites you'll find information about how to install the language R and the IDE RStudio. You can choose between an interactive and a manual tutorial.
+
+##  `r fa("download", fill = "black")` Installing R & RStudio IDE
 ## R & RStudio
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

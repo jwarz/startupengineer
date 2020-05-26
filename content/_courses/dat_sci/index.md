@@ -15,7 +15,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "[sujins, pixabay](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg), [cc0](https://www.pexels.com/de-de/creative-commons-images/)"
+  caption: "[pexels](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg), [cc0](https://www.pexels.com/de-de/creative-commons-images/)"
   focal_point: "smart"
 
 # Projects (optional).
